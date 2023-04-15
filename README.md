@@ -6,7 +6,7 @@
 
 1. Клонировать или использовать как шаблон репозиторий
 1. Открыть свой репозиторий в Codespaces
-1. Должаться выполнения postCreateCommand
+1. Дождаться выполнения postCreateCommand
 1. Ввести команду `xelatex -synctex=1 -interaction=nonstopmode document.tex` 
 1. Открыть document.pdf с помощью LaTeX Workshop Internal PDF Viewer
  
